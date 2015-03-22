@@ -1,4 +1,4 @@
-To publish to heroku run:
+To publish to heroku run these commands:
 
 	git init
 
